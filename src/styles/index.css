@@ -65,7 +65,7 @@ html {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  font-family: 'Rubik Dirt'; 
+  font-family: monospace; 
   font-size: 1.6rem;
   font-weight: normal;
   margin: 0;
